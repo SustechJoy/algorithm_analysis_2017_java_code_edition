@@ -1,3 +1,5 @@
-# algorithm_analysis_2017_java_code_edition
-code for algorithm analysis
-SUSTech 2017
+# Algorithm Analysis SUSTech_CS208
+
+Yi Zhao @ SUSTech 2019
+
+Please don't use code in this repo as your course work.
